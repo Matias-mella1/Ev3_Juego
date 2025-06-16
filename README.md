@@ -1,0 +1,1 @@
+Juego 3D de fútbol desarrollado en Unity, que pone a prueba tu precisión y control. El objetivo principal del jugador es anotar tres goles en un arco que puede permanecer estático o moverse de forma oscilante, dependiendo de la configuración seleccionada en el menú de opciones.
